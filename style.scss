@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 微軟正黑體;
+}
+
+#carouselExampleIndicators{
+
+    div{
+
+        div{
+
+            img{
+                height: 450px;
+                object-fit: cover;
+            }
+        }
+    }
+}
+
+#pro{
+
+    img{
+        height: 300px;
+        object-fit: cover;
+    }
+}
+
+#ser{
+
+    .card{
+        height: 650px;
+
+        img{
+            height: 450px;
+            object-fit: cover;
+        }
+    }
+}
